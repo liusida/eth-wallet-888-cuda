@@ -22,11 +22,11 @@ make
 ## Usage
 To run the program and search for an Ethereum address with a specific prefix:
 ```sh
-./search <prefix>
+./search.out <prefix>
 ```
 Example:
 ```sh
-./search 1234
+./search.out 1234
 ```
 This will search for an Ethereum address that starts with `0x1234`.
 
