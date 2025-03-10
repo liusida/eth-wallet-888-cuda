@@ -39,7 +39,9 @@ Feel free to contribute by submitting issues and pull requests.
 - nvcc: V12.2
 
 If you find this project useful and want to support further development, send ETH to:
-**0x8888888827d3099Ba8A1Fe5C7B47cDfca8C4c1B5**
+
+- **0x8888888827d3099Ba8A1Fe5C7B47cDfca8C4c1B5**
+
 (or even SepoliaETH is also welcome)
 
 Thank you for your support! 🚀
