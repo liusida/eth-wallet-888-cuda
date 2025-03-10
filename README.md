@@ -26,9 +26,9 @@ To run the program and search for an Ethereum address with a specific prefix:
 ```
 Example:
 ```sh
-./search.out 1234
+./search.out 8888
 ```
-This will search for an Ethereum address that starts with `0x1234`.
+This will search for an Ethereum address that starts with `0x8888`.
 
 ## Contributing
 Feel free to contribute by submitting issues and pull requests.
@@ -38,11 +38,12 @@ Feel free to contribute by submitting issues and pull requests.
 - NVIDIA GTX 1070
 - nvcc: V12.2
 
-If you find this project useful and want to support further development, send ETH to:
+And here is the wallet address I've generated using a few hours:
 
 - **0x8888888827d3099Ba8A1Fe5C7B47cDfca8C4c1B5**
 
-(or even SepoliaETH is also welcome)
+If you find this project useful and want to support further development, please send this address some ETH~
+(or even SepoliaETH is also welcome :)
 
 Thank you for your support! 🚀
 
