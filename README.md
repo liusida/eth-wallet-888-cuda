@@ -47,3 +47,13 @@ If you find this project useful and want to support further development, please 
 
 Thank you for your support! 🚀
 
+# Acknowledgement
+
+I found the CUDA implementation of the hash function `Keccak256` (sometimes mistakenly called `SHA-3`) and the Elliptic Curve Digital Signature Algorithm (ECDSA) `Secp256k1` here:
+
+https://github.com/optinsoft/gen_eth
+
+The `Secp256k1` implementation likely originates from:
+
+https://github.com/hashcat/hashcat
+
